@@ -1,18 +1,18 @@
 # sil
+<SIL> sil
 <SPOKEN_NOISE> sil
-SIL sil
+正确 zh eng4 q ve4
+错误 c uo4 uu u4
 交换机 j iao1 h uan4 j i1
 路由器 l u4 ii iu2 q i4 
 网桥 uu uang3 q iao2 
 宽带城域网 k uan1 d ai4 ch eng2 vv v4 uu uang3 
-局域网 jv2 vv v4 uu uang3 
+局域网 j v2 vv v4 uu uang3 
 广域网 g uang3 vv v4 uu uang3 
 核心交换层 h e2 x in1 j iao1 h uan4 c eng2 
 汇聚层 h ui4 j v4 c eng2
 接入层 j ie1 r u4 c eng2
 拓扑结构 t uo4 p u3 j ie2 g ou4
-正确 zh eng4 q ve4
-错误 c uo4 uu u4
 数据报 sh u4 j v4 b ao4
 虚电路 x v1 d ian4 l u4
 计算机网络 j i4 s uan4 j i1 uu uang3 l uo4 
@@ -59,17 +59,16 @@ SIL sil
 可靠性 k e3 k ao4 x ing4 
 吞吐量 t un1 t u3 l iang4
 时延带宽积 sh ix2 ii ian2 d ai4 k uan1 j i1 
-带宽时延积 d ai4 k uan1 sh ix2 ii ian2 j i1 
 往返时间 uu uang3 f an3 sh ix2 j ian1 
 延迟带宽积 ii ian2 ch i2 d ai4 k uan1 j i1 
-拓扑网络 t uo4 p u3 uu uang3 l uo4 
+网络 uu uang3 l uo4 
 服务器 f u2 uu u4 q i4 
 有连接不可靠 ii iu3 l ian2 j ie1 b u4 k e3 k ao4 
 端到端服务 d uan1 d ao4 d uan1 f u2 uu u4 
-主机 zh u3 j i1 
+主机 zh u3 j i1
 数据封装 sh u4 j v4 f eng1 zh uang1 
 协议数据单元 x ie2 ii i4 sh u4 j v4 d an1 vv van2 
-连接 l ian2 j ie1 
-维护 uu ui2 h u4 
-释放 sh ix4 f ang4 
-参考模型 c an1 k ao3 m o2 x ing2 
+连接 l ian2 j ie1
+维护 uu ui2 h u4
+释放 sh ix4 f ang4
+参考模型 c an1 k ao3 m o2 x ing2

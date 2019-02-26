@@ -1,0 +1,75 @@
+# # sil
+<SIL> <SIL> sil
+<SPOKEN_NOISE> <SPOKEN_NOISE> sil
+<eps> <eps> sil
+七层模型 七层模型 q i1 c eng2 m o2 x ing2
+主机 主机 zh u3 j i1
+交换机 交换机 j iao1 h uan4 j i1
+会话层 会话层 h ui4 h ua4 c eng2
+传输层 传输层 ch uan2 sh u1 c eng2
+全双工 全双工 q uan2 sh uang1 g ong1
+冲突域 冲突域 ch ong1 t u1 vv v4
+分组交换 分组交换 f en1 z u3 j iao1 h uan4
+半双工 半双工 b an4 sh uang1 g ong1
+协议 协议 x ie2 ii i4
+协议数据单元 协议数据单元 x ie2 ii i4 sh u4 j v4 d an1 vv van2
+单工 单工 d an1 g ong1
+参考模型 参考模型 c an1 k ao3 m o2 x ing2
+可靠性 可靠性 k e3 k ao4 x ing4
+吞吐量 吞吐量 t un1 t u3 l iang4
+四层模型 四层模型 s iy4 c eng2 m o2 x ing2
+宽带城域网 宽带城域网 k uan1 d ai4 ch eng2 vv v4 uu uang3
+对等实体 对等实体 d ui4 d eng3 sh ix2 t i3
+局域网 局域网 j v2 vv v4 uu uang3
+带宽 带宽 d ai4 k uan1
+帧 帧 zh en1
+广域网 广域网 g uang3 vv v4 uu uang3
+广播域 广播域 g uang3 b o1 vv v4
+应用层 应用层 ii ing1 ii iong4 c eng2
+延迟带宽积 延迟带宽积 ii ian2 ch i2 d ai4 k uan1 j i1
+往返时间 往返时间 uu uang3 f an3 sh ix2 j ian1
+总线型 总线型 z ong3 x ian4 x ing2
+报文 报文 b ao4 uu un2
+报文交换 报文交换 b ao4 uu un2 j iao1 h uan4
+拓扑结构 拓扑结构 t uo4 p u3 j ie2 g ou4
+接入层 接入层 j ie1 r u4 c eng2
+接口 接口 j ie1 k ou3
+数据传输阶段 数据传输阶段 sh u4 j v4 ch uan2 sh u1 j ie1 d uan4
+数据封装 数据封装 sh u4 j v4 f eng1 zh uang1
+数据报 数据报 sh u4 j v4 b ao4
+数据链路层 数据链路层 sh u4 j v4 l ian4 l u4 c eng2
+时延 时延 sh ix2 ii ian2
+时延带宽积 时延带宽积 sh ix2 ii ian2 d ai4 k uan1 j i1
+星型 星型 x ing1 x ing2
+有连接不可靠 有连接不可靠 ii iu3 l ian2 j ie1 b u4 k e3 k ao4
+服务 服务 f u2 uu u4
+服务器 服务器 f u2 uu u4 q i4
+树型 树型 sh u4 x ing2
+核心交换层 核心交换层 h e2 x in1 j iao1 h uan4 c eng2
+正确 正确 zh eng4 q ve4
+比特序列 比特序列 b i3 t e4 x v4 l ie4
+汇聚层 汇聚层 h ui4 j v4 c eng2
+物理层 物理层 uu u4 l i3 c eng2
+环型 环型 h uan2 x ing2
+电信通信网 电信通信网 d ian4 x in4 t ong1 x in4 uu uang3
+电视通信网 电视通信网 d ian4 sh ix4 t ong1 x in4 uu uang3
+电路交换 电路交换 d ian4 l u4 j iao1 h uan4
+端到端服务 端到端服务 d uan1 d ao4 d uan1 f u2 uu u4
+端口号 端口号 d uan1 k ou3 h ao4
+维护 维护 uu ui2 h u4
+网型 网型 uu uang3 x ing2
+网桥 网桥 uu uang3 q iao2
+网状结构 网状结构 uu uang3 zh uang4 j ie2 g ou4
+网络 网络 uu uang3 l uo4
+网络体系结构 网络体系结构 uu uang3 l uo4 t i3 x i4 j ie2 g ou4
+网络层 网络层 uu uang3 l uo4 c eng2
+虚电路 虚电路 x v1 d ian4 l u4
+虚电路建立阶段 虚电路建立阶段 x v1 d ian4 l u4 j ian4 l i4 j ie1 d uan4
+虚电路拆除阶段 虚电路拆除阶段 x v1 d ian4 l u4 ch ai1 ch u2 j ie1 d uan4
+表示层 表示层 b iao3 sh ix4 c eng2
+计算机网络 计算机网络 j i4 s uan4 j i1 uu uang3 l uo4
+路由器 路由器 l u4 ii iu2 q i4
+连接 连接 l ian2 j ie1
+通信子网 通信子网 t ong1 x in4 z iy3 uu uang3
+释放 释放 sh ix4 f ang4
+错误 错误 c uo4 uu u4

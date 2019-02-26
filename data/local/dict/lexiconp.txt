@@ -1,0 +1,74 @@
+# 1.0	sil
+<SIL> 1.0	sil
+<SPOKEN_NOISE> 1.0	sil
+正确 1.0	zh eng4 q ve4
+错误 1.0	c uo4 uu u4
+交换机 1.0	j iao1 h uan4 j i1
+路由器 1.0	l u4 ii iu2 q i4 
+网桥 1.0	uu uang3 q iao2 
+宽带城域网 1.0	k uan1 d ai4 ch eng2 vv v4 uu uang3 
+局域网 1.0	j v2 vv v4 uu uang3 
+广域网 1.0	g uang3 vv v4 uu uang3 
+核心交换层 1.0	h e2 x in1 j iao1 h uan4 c eng2 
+汇聚层 1.0	h ui4 j v4 c eng2
+接入层 1.0	j ie1 r u4 c eng2
+拓扑结构 1.0	t uo4 p u3 j ie2 g ou4
+数据报 1.0	sh u4 j v4 b ao4
+虚电路 1.0	x v1 d ian4 l u4
+计算机网络 1.0	j i4 s uan4 j i1 uu uang3 l uo4 
+电信通信网 1.0	d ian4 x in4 t ong1 x in4 uu uang3 
+电视通信网 1.0	d ian4 sh ix4 t ong1 x in4 uu uang3 
+通信子网 1.0	t ong1 x in4 z iy3 uu uang3 
+报文 1.0	b ao4 uu un2 
+端口号 1.0	d uan1 k ou3 h ao4 
+比特序列 1.0	b i3 t e4 x v4 l ie4 
+接口 1.0	j ie1 k ou3 
+物理层 1.0	uu u4 l i3 c eng2 
+数据链路层 1.0	sh u4 j v4 l ian4 l u4 c eng2 
+网络层 1.0	uu uang3 l uo4 c eng2 
+传输层 1.0	ch uan2 sh u1 c eng2 
+应用层 1.0	ii ing1 ii iong4 c eng2 
+表示层 1.0	b iao3 sh ix4 c eng2 
+会话层 1.0	h ui4 h ua4 c eng2 
+电路交换 1.0	d ian4 l u4 j iao1 h uan4 
+报文交换 1.0	b ao4 uu un2 j iao1 h uan4 
+分组交换 1.0	f en1 z u3 j iao1 h uan4 
+带宽 1.0	d ai4 k uan1 
+时延 1.0	sh ix2 ii ian2 
+广播域 1.0	g uang3 b o1 vv v4 
+冲突域 1.0	ch ong1 t u1 vv v4 
+网型 1.0	uu uang3 x ing2 
+网状结构 1.0	uu uang3 zh uang4 j ie2 g ou4 
+星型 1.0	x ing1 x ing2 
+树型 1.0	sh u4 x ing2 
+环型 1.0	h uan2 x ing2 
+总线型 1.0	z ong3 x ian4 x ing2 
+协议 1.0	x ie2 ii i4 
+单工 1.0	d an1 g ong1 
+半双工 1.0	b an4 sh uang1 g ong1 
+全双工 1.0	q uan2 sh uang1 g ong1 
+对等实体 1.0	d ui4 d eng3 sh ix2 t i3 
+虚电路建立阶段 1.0	x v1 d ian4 l u4 j ian4 l i4 j ie1 d uan4 
+数据传输阶段 1.0	sh u4 j v4 ch uan2 sh u1 j ie1 d uan4 
+虚电路拆除阶段 1.0	x v1 d ian4 l u4 ch ai1 ch u2 j ie1 d uan4 
+网络体系结构 1.0	uu uang3 l uo4 t i3 x i4 j ie2 g ou4 
+七层模型 1.0	q i1 c eng2 m o2 x ing2 
+四层模型 1.0	s iy4 c eng2 m o2 x ing2 
+服务 1.0	f u2 uu u4 
+帧 1.0	zh en1 
+可靠性 1.0	k e3 k ao4 x ing4 
+吞吐量 1.0	t un1 t u3 l iang4
+时延带宽积 1.0	sh ix2 ii ian2 d ai4 k uan1 j i1 
+往返时间 1.0	uu uang3 f an3 sh ix2 j ian1 
+延迟带宽积 1.0	ii ian2 ch i2 d ai4 k uan1 j i1 
+网络 1.0	uu uang3 l uo4 
+服务器 1.0	f u2 uu u4 q i4 
+有连接不可靠 1.0	ii iu3 l ian2 j ie1 b u4 k e3 k ao4 
+端到端服务 1.0	d uan1 d ao4 d uan1 f u2 uu u4 
+主机 1.0	zh u3 j i1
+数据封装 1.0	sh u4 j v4 f eng1 zh uang1 
+协议数据单元 1.0	x ie2 ii i4 sh u4 j v4 d an1 vv van2 
+连接 1.0	l ian2 j ie1
+维护 1.0	uu ui2 h u4
+释放 1.0	sh ix4 f ang4
+参考模型 1.0	c an1 k ao3 m o2 x ing2
